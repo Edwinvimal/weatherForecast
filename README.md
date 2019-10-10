@@ -6,7 +6,7 @@ IDE Execution: use Intellji or Eclipse IDE to run. navigate to RunCukesTest runn
 
 Command line execution: Navigate to project root dirctory in cmd prompt and type mvn test or mvn test -Dcucumber="src/test/java/resources/weatherForecast.feature"
 
-Test results: Test results will be generated in the below path after every test execution weatherForecast\target\cucumber-reports
+Test results: Test results will be generated in the below path after every test execution weatherStation\target\cucumber-reports
 
 Set up:
 Navigate to POM.xml file to download the dependencies if it required. Maven-->Install
